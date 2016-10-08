@@ -1,0 +1,1 @@
+config angular2 app with systemjs
